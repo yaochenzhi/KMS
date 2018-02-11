@@ -1,0 +1,7 @@
+This is a copy of repo "https://github.com/Wind4/vlmcsd"
+
+git clone git@github.com:yaochenzhi/KMS
+cd KMS
+make
+cd bin
+./vlmcsd -h
